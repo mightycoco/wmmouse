@@ -46,5 +46,6 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "format": "cpp"
-    }
+    },
+    "cmake.ignoreCMakeListsMissing": true
 }
